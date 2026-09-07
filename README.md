@@ -1,2 +1,6 @@
 # fpga
-work in progress custom FPGA board using an iCE 40 chip
+work in progress custom FPGA board using an iCE40HX1K
+USB powered
+GPIO headers
+Programming header (no JTAG, CMSIS DAP link adapter via RP2040)
+SPI flash
